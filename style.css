@@ -20,13 +20,14 @@ button{
     padding: 25px 8px;
     cursor: pointer;
     align-self: center;
-    background-color: #e086d3ff;
+    background-color: #002a22ff;
     margin: 10px;
+   color: white;
     border: 1px solid;
     border-radius: 20px;
 }
 button:hover{
-    background-color: #8332acff;
+    background-color: #a1cca5ff;
      transition: transform 150ms;
     transform: scale(1.03);
 
